@@ -11,11 +11,4 @@ class HomeController extends Controller
         return view('admin.dashboard');
     }
 
-    public function dashboard(){
-        return view('dashboard');
-    }
-
-    public function leaderboard(){
-        return view('leaderboard');
-    }
 }
