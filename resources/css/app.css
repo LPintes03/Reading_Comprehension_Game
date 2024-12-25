@@ -2,14 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+.hov
 
-.hoverable {
-    color: blue; /* Change this to your desired color */
-    cursor: pointer; /* Change the cursor to indicate it's clickable */
-    text-decoration: underline; /* Optional: underline the text */
+.back-button {
+    display: inline; /* Ensures the anchor tag only takes up space for the button */
+    padding: 0; /* Remove any default padding */
+    margin: 0; /* Remove any default margin */
 }
 
-.hoverable:hover {
-    color: darkblue; /* Change this to the color you want on hover */
-    text-decoration: none; /* Optional: remove underline on hover */
+.back-button x-back-button {
+    display: block; /* Ensures the button is a block element */
+    pointer-events: auto; /* Ensures the button is clickable */
 }
+
+.words {
+    font-size: 1.5rem;
+    color: #756c5c;
+}
+

@@ -29,6 +29,16 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
 });
 
+// Route::get('/audio/{filename}', function ($filename) {
+//     $path = storage_path('app/public/audio/' . $filename);
+
+//     if (!File::exists($path)) {
+//         abort(404);
+//     }
+
+//     return response()->file($path);
+// });
+
 //profille
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');

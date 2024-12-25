@@ -1,5 +1,5 @@
 <x-app-layout>
-    @vite('resources/css/app.css')
+    @vite('resources\css\chapters.css')
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
             {{ __('Mga Kabanata') }}

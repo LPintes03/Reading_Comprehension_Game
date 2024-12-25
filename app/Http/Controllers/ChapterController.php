@@ -18,4 +18,6 @@ class ChapterController extends Controller
         // Return the view
         return view($viewName);
     }
+
+
 }
