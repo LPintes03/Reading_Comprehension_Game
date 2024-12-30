@@ -18,7 +18,7 @@
                 <!-- Play Button -->
                 <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex" style="position: absolute; bottom: 30%; left: 70%; transform: translateX(-50%);">
                     <x-nav-link :href="route('play')">
-                        <img src="{{ asset('FrontendAssets/7.png') }}" alt="Play Button" style="width: 200px; height: auto;">
+                        <img src="{{ asset('FrontendAssets/10.png') }}" alt="Play Button" style="width: 200px; height: auto;">
                     </x-nav-link>
                 </div>
                 <br><br><br><br>
