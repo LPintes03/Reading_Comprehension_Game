@@ -14,18 +14,12 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="font-sans text-gray-900 antialiased">
-        <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100">
-            <div>
-                <a href="/">
-                    <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
-                </a>
-            </div>
-
-            <!-- This wrapper was previously limiting the width; we now remove width limits for a full-width layout -->
-            <div class="w-full sm:w-full mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg">
+    <body>
+        <div style="position: absolute; width: 100%; height: 100%; background: url('{{ asset('FrontendAssets/16.png') }}') no-repeat center center fixed; background-size: contain; background-position: -260px;">
+            <div style="position: absolute; width: 100%; height: 100%; background: linear-gradient(to right, rgba(68, 53, 53, 0.5) 5%, rgba(237, 237, 229, 0.8) 50%);">
                 {{ $slot }}
             </div>
         </div>
     </body>
 </html>
+
