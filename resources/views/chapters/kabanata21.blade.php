@@ -31,13 +31,13 @@
             264   Sagot ni Florante: "Huwag ding maparis
             ang gererong bantog sa palad kong 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="amis"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="malas o masama ang palad"
+            data-definition-eng="ill-fated or unfortunate"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">amis
+            data-antonyms="mapalad, maswerte"
+            data-synonyms="malas, masaklap">amis
             </span>;
             at sa kaaway ma'y 'di ko ninanais
             ang laki ng dusang aking napagsapit."
@@ -78,13 +78,13 @@
             na inihahandog sa mahal mong yapak,
             ibilang sa isang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="kiyas"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="anyo o tindig ng katawan"
+            data-definition-eng="posture or appearance"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">basalyo
+            data-antonyms="kawalan ng porma, kawalang-ayos"
+            data-synonyms="anyo, tindig">basalyo
             </span>'t alagad."
         </p>
     </div>
@@ -104,13 +104,13 @@
             ang napangarap kong gererong matapang
             na maglalathala sa 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="basalyo"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="alagad o lingkod sa hari"
+            data-definition-eng="vassal or servant to a monarch"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">sansinukuban
+            data-antonyms="pinuno, hari"
+            data-synonyms="alagad, lingkod">sansinukuban
             </span>
             ng kapurihan ko at kapangyarihan.
         </p>
@@ -124,13 +124,13 @@
             na agad masubo sa pagpapatayan
             ang kabataan ko't 'di 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="sansinukuban"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="buong mundo o sansinukob"
+            data-definition-eng="the entire universe or world"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">kabihasaan
+            data-antonyms="bahagi, pook"
+            data-synonyms="mundo, daigdig">kabihasaan
             </span>.
         </p>
     </div>

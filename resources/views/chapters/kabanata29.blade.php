@@ -83,7 +83,16 @@
     <div class="words">
         <p>
             376   Ngunit 'di mangyaring mawatasan-watasan
-            ang bakit at hulo ng bulung-bulungan;
+            ang bakit at hulo ng 
+            <span class="hoverable"
+            data-word="Bulong-bulungan"
+            data-audio="path/to/audio/mapanglaw.mp3"
+            data-definition-tag="mga lihim na usap-usapan"
+            data-definition-eng="whispering, rumors"
+            data-example="Lubhang mahirap ang sitwasyon."
+            data-antonyms="tahimik, hayag"
+            data-synonyms="chismis, usap-usapan">bulung-bulungan
+            </span>;
             parang isang sakit na 'di mahulaan
             ng medikong pantas ang dahil at saan.
         </p>
@@ -93,7 +102,16 @@
     <div class="words">
         <p>
             377   'di kaginsa-ginsa, palasyo'y nakubkob
-            ng magulong baya't baluting soldados;
+            ng magulong baya't 
+            <span class="hoverable"
+            data-word="Baluting"
+            data-audio="path/to/audio/mapanglaw.mp3"
+            data-definition-tag="may kasamang baluti, pinalakas ang katawan gamit ang armor"
+            data-definition-eng=" armored"
+            data-example="Lubhang mahirap ang sitwasyon."
+            data-antonyms="walang armor, walang baluti"
+            data-synonyms="nakasuong armor, nakabaluti">baluting
+            </span> soldados;
             O, araw na lubhang kakilakilabot!
             Araw na isinumpa ng galit ng Diyos!
         </p>
@@ -115,7 +133,16 @@
             379   Ito'y kay Adolfong kagagawang lahat
             at nang magkagulo yaong bayang bulag;
             sa ngalan ng hari ay isinambulat
-            gayong ordeng mula sa dibdib ng sukab.
+            gayong ordeng mula sa dibdib ng 
+            <span class="hoverable"
+            data-word="Sukab"
+            data-audio="path/to/audio/mapanglaw.mp3"
+            data-definition-tag="taong takaw kapangyarihan, traydor"
+            data-definition-eng="villain, traitor"
+            data-example="Lubhang mahirap ang sitwasyon."
+            data-antonyms="tapat, matapat"
+            data-synonyms="taksil, traydor">sukab
+            </span>.
         </p>
     </div>
     <br>

@@ -31,13 +31,13 @@
             296   Dumating ang araw ng aking pag-alis,
             sino ang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="sasayod"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="malalaman o makikilala"
+            data-definition-eng="will know or realize"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">sasayod
+            data-antonyms="hindi malalaman, hindi maamoy"
+            data-synonyms="malalaman, maaamoy">sasayod
             </span> ng bumugsong sakit?
             Dini sa puso ko'y alin ang hinagpis
             na hindi nagtimo ng kanyang kalis?
@@ -86,13 +86,13 @@
             at Parkas Atropos ay nagdamdam-pagal
             sa paggapas nila't 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="lumikat"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="magliwanag o sumikat"
+            data-definition-eng="to shine or to rise"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">pagkitil
+            data-antonyms="magdilim, lumubog"
+            data-synonyms="sumik, magningning">pagkitil
             </span> ng buhay
             ng naghihingalong sa dugo'y naglutang.
         </p>
@@ -114,13 +114,13 @@
             mga soldados kong pawang mararahas;"
             lumapit sa aking mata'y 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="pagkitil"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pagtigil ng buhay o pagpapahinto"
+            data-definition-eng="extinguishing or ending life"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">nagniningas
+            data-antonyms="buhay, muling pagkabuhay"
+            data-synonyms="pagpatay, pagwawakas">nagniningas
             </span>,
             "Halika", aniya't "kita ang maglamas."
         </p>
@@ -132,13 +132,13 @@
             304   Limang oras kaming hindi naghiwalay
             hanggang sa nahapo ang bato ng tapang;
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="nagniningas"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="sumisikò o kumikislap ng matinding liwanag"
+            data-definition-eng="to blaze or burn intensely"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">nagliksa
+            data-antonyms="malamig, hindi umiinit"
+            data-synonyms="nag-aalab, naglalagablab">nagliksa
             </span>ang langit nang aking mapatay ...
             habag sa gererong mundo'y tinakhan.
         </p>
@@ -210,13 +210,13 @@
             311   Nagsiakyat kami sa palasyong bantog
             at 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="nagliksa"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="natapos o nauwi sa isang dulo"
+            data-definition-eng="to be finished or completed"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">nangagpahinga
+            data-antonyms="nagsimula, nagpapatuloy"
+            data-synonyms="natapos, huminto">nangagpahinga
             </span> ang soldadong pagod;
             datapwa't ang baya'y tatlong araw halos
             na nakalimutan ang gawing matulog.
@@ -229,13 +229,13 @@
             312   Sa ligaya namin ng nuno kong hari,
             nakipagitan din ang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="lilong pighati"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="mga di-kilalang kasamahan sa kalungkutan"
+            data-definition-eng="unknown companions in sorrow"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">lilong pighati
+            data-antonyms="kasiyahan, kaligayahan"
+            data-synonyms="hindi kilalang kalungkutan, hindi inaasahang pagluha">lilong pighati
             </span>;
             at ang pagkamatay ng ina kong pili,
             malaon nang lanta'y nanariwang muli.

@@ -39,13 +39,13 @@
         <p>
             233   
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="gunamgunam"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="malalim na pag-iisip o pag-aalala"
+            data-definition-eng="deep thought or reflection"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">Gunamgunam
+            data-antonyms="kawalan ng pakialam, kawalang-malay"
+            data-synonyms="pagninilay, pag-iisip">Gunamgunam
             </span> na 'di napagod humapis,
             'di ka naianod ng luhang mabilis;
             iyong ginugulo ang bait ko't isip
@@ -60,13 +60,13 @@
             sinasariwa mo ang sugat na lalang
             ng aking tinanggap na 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="palasong liham"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="liham na nakasasakit o nakapagpapahirap ng damdamin"
+            data-definition-eng="a letter that causes pain or sorrow"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">palasong liham!
+            data-antonyms="liham ng kasiyahan, sulat ng pag-asa"
+            data-synonyms="liham ng dalamhati, sulat ng sakit">palasong liham!
             </span> 
         </p>
     </div>
@@ -78,13 +78,13 @@
             namatay si ina. Ay! Laking dalita
             ito sa buhay ko ang unang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="umiwa"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="gumawa ng malalim na sugat o kirot."
+            data-definition-eng="inflicted a deep wound or pain"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis"> umiwa.
+            data-antonyms="gumamot, nagpagaling"
+            data-synonyms="sumugat, dumurog"> umiwa.
             </span>
         </p>
     </div>
@@ -94,13 +94,13 @@
             236   Patay na dinampot sa aking pagbasa
             niyong letrang titik ng 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="bikig"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="nakakasakit o nakakadistorbo sa damdamin"
+            data-definition-eng="something hurtful or disturbing"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">bikig
+            data-antonyms="aliw, ginhawa"
+            data-synonyms="tusok, sugat">bikig
             </span> na pluma;
             diyata, ama ko, at nakasulat ka
             ng pamatid-buhay sa anak na sinta!
@@ -120,13 +120,13 @@
         <p>
             238   Nang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="himasmasa"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag=" pagbalik sa ulirat o pagkakaroon ng malay"
+            data-definition-eng="regaining consciousness or awareness"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">mahimasmasa
+            data-antonyms="nawalan ng ulirat, nahilo"
+            data-synonyms="nagkamalay, natauhan">mahimasmasa
             </span>'y narito ang sakit,
             dalawa kong mata'y naging parang batis;
             at ang Ay, ay, inay! kung kaya mapatid
@@ -140,13 +140,13 @@
             239   Sa panahong yao'y ang buo kong damdam
             ay nanaw na sa akin ang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="sandaigdigan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="buong mundo o sansinukob"
+            data-definition-eng="the whole world or universe"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">sandaigdigan
+            data-antonyms="isang lugar, sulok"
+            data-synonyms="daigdig, mundo">sandaigdigan
             </span>;
             nag-iisa ako sa gitna ng lumbay,
             ang kinakabaka'y sarili kong buhay.

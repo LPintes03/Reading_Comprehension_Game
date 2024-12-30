@@ -30,13 +30,13 @@
         </p>
             254   
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="bininit sa busog"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="binatak o iniunat, tulad ng string sa pana"
+            data-definition-eng="drawn back, as in a bowstring"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">Bininit sa busog
+            data-antonyms="pinakawalan, binitawan"
+            data-synonyms="binatak, iniunat">Bininit sa busog
             </span> ang siyang katulad
             ng tulin ng aming daong sa paglalayag,
             kaya 'di nalaon paa ko'y yumapak
@@ -48,13 +48,13 @@
         <p>
             255   Pag-ahon ko'y agad nagtuloy sa 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="kinta"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="mansiyon o malaking bahay"
+            data-definition-eng="mansion or estate"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">kinta
+            data-antonyms="kubo, maliit na tirahan"
+            data-synonyms="mansiyon, bahay-na-bato">kinta
             </span>,
             'di humihiwalay ang katotong sinta;
             paghalik sa kamay ng poon kong ama,
@@ -78,13 +78,13 @@
             kami ay dinatnang nagkakayakap pa
             niyong 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="embahador"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="kinatawan o sugo mula sa ibang lugar"
+            data-definition-eng="ambassador or envoy"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">embahador
+            data-antonyms="kalaban, banyaga"
+            data-synonyms="kinatawan, sugo">embahador
             </span> ng bayang Krotona.
         </p>
     </div>
@@ -103,22 +103,22 @@
             259   Humihinging tulong at nasa pangamba,
             ang Krotonang Reyno'y 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="kubkob"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="napapalibutan o tinutuligsa ng kaaway"
+            data-definition-eng="surrounded or besieged"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">kubkob
+            data-antonyms="ligtas, malaya"
+            data-synonyms="napalilibutan, sinasalakay">kubkob
             </span> ng 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="kabaka"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="kaaway sa digmaan"
+            data-definition-eng="enemy or foe in battle"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">kabaka
+            data-antonyms="kakampi, kaalyado"
+            data-synonyms="kalaban, kaaway">kabaka
             </span>;
             ang puno ng hukbo'y balita ng sigla —
             Heneral Osmalic na bayani ng Persya.

@@ -50,13 +50,13 @@
             sa kuta'y hindi na bandilang binyagan,
             kundi 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="Medialuna"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="bandila o simbolo ng bagong kaharian"
+            data-definition-eng="crescent flag or symbol of a new kingdom"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">Medialuna
+            data-antonyms="bandilang itinakwil"
+            data-synonyms="bandila ng bagong kaharian">Medialuna
             </span>'t reyno'y nasalakay
             ni Alading salot ng pasuking bayan.
         </p>
@@ -104,13 +104,13 @@
             321   Pupugutan dahil sa hindi pagtanggap
             sa 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="sintang mahalay"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pagmamahal na imoral o hindi wasto"
+            data-definition-eng="love that is immoral or improper"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">sintang mahalay
+            data-antonyms="dalisay, tapat"
+            data-synonyms="malaswa, hindi tapat">sintang mahalay
             </span> ng emir sa s'yudad;
             nang mag-asal-hayop ang Morong pangahas,
             tinampal sa mukha ang himalang dilag.
@@ -122,13 +122,13 @@
         <p>
             322   Aking dali-daling 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="binalag"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pinutol o inalis ang isang bagay"
+            data-definition-eng="to cut or remove something"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">binalag
+            data-antonyms="iniwan, itinabi"
+            data-synonyms="pinutol, inalis">binalag
             </span> sa kamay
             ang lubid na walang awa at pitagan;
             ang daliri ko'y naaalang-alang
@@ -141,13 +141,13 @@
         <p>
             323   Dito nakatanggap ng 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="luna"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="lunas o pag-gamot"
+            data-definition-eng="remedy or cure"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">luna
+            data-antonyms="sakit, karamdaman"
+            data-synonyms="gamot, lunas">luna
             </span> na titig
             ang nagdaralitang puso sa pag-ibig;
             araw ng ligayang una kong pagdinig

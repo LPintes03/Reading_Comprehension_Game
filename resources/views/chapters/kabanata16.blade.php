@@ -30,13 +30,13 @@
         </p>
             205   Pag-aaral sa akin ay 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="ipinatungkol"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="iwinasto"
+            data-definition-eng="assigned"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">ipinatungkol
+            data-antonyms="tinanggihan, itinakwil"
+            data-synonyms=" iniuukol, itinakda">ipinatungkol
             </span>
             sa isang mabait, maestrong marunong;
             lahi ni Pitako — ngala'y si Antenor —
@@ -48,13 +48,13 @@
         <p>
             206   May 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="sambuwan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="isang buwan"
+            data-definition-eng="one month"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">sambuwan
+            data-antonyms="dalawa o higit pa na buwan"
+            data-synonyms="buwan, isang buwan">sambuwan
             </span> 
             halos na 'di nakakain,
             luha sa mata ko'y 'di mapigil-pigil,
@@ -68,13 +68,13 @@
             207   Ang dinatnan doong madlang nag-aaral
             kaparis kong bata't 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="kabaguntauhan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="mga kapwa estyudante o kababayan"
+            data-definition-eng="comrades or fellow students"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">kabaguntauhan
+            data-antonyms="kalaban, kaaway"
+            data-synonyms="kaibigan, kasama">kabaguntauhan
             </span>,
             isa'y si Adolfong aking kababayan,
             anak niyong Konde Silenong marangal.
@@ -87,13 +87,13 @@
             sa dala kong edad na lalabing-isa;
             siyang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="pinupoon"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pinupuro"
+            data-definition-eng="revered"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">pinupoon
+            data-antonyms="tinatanggihan, iniiwasan"
+            data-synonyms="binibigyan ng galang, inirerespeto">pinupoon
             </span> ng buong esk'wela,
             marunong sa lahat na magkakasama.
         </p>
@@ -102,13 +102,13 @@
     <div class="words">
         <p>
             209   <span class="hoverable"
-            data-word="Lubhang"
+            data-word="mahinhin"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="magalang o maayos"
+            data-definition-eng="modest or gentle"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">Mahinhin
+            data-antonyms="magaspang, magulo"
+            data-synonyms="mahinahon, maingat">Mahinhin
             </span> ang asal na hindi magaso
             at kung lumakad pa'y palaging patungo,
             mabining mangusap at walang katalo,
@@ -120,13 +120,13 @@
         <p> 
             210   Anupa't sa bait ay siyang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="huwaran"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="halimbawa"
+            data-definition-eng="model"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis"> huwaran
+            data-antonyms="hindi huwaran, salungat"
+            data-synonyms="halimbawa, ginugol"> huwaran
             </span>
             ng nagkakatipong nagsisipag-aral;
             sa gawa at wika'y 'di mahuhulihan
@@ -138,13 +138,13 @@
         <p>
             211   Ni ang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="katalasan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="matalas na pagiisip"
+            data-definition-eng="sharpness or keen intellect"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis"> katalasan
+            data-antonyms="kahinaan, katangahan"
+            data-synonyms=" talas, talinuhan"> katalasan
             </span> ng aming maestro
             at pagkabihasa sa lakad ng mundo
             ay hindi natarok ang lalim at tungo
@@ -167,24 +167,24 @@
         <p>
             213   Sa 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="pinagtatakhan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="nabighani o nakakuha ng atensyon"
+            data-definition-eng="wondered or marveled"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis"> pinagtatakhan
+            data-antonyms="hindi pinansin, walang pakialam"
+            data-synonyms="namangha, nagtataka"> pinagtatakhan
             </span> ng buong esk'wela
             bait ni Adolfong ipinapakita,
             'di ko 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="malasapan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="matikman o maranasan"
+            data-definition-eng="to taste or experience"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis"> malasapan
+            data-antonyms="hindi matikman, hindi maranasan"
+            data-synonyms="matikman, maranasan"> malasapan
             </span> ang haing ligaya
             ng magandang asal ng ama ko't ina.
         </p>
@@ -195,13 +195,13 @@
         <p>
             214   Puso ko'y 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="ninilag"
             data-audio="path/to/audio/mapanglaw.mp3"
             data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-eng="to feel repelled or to be disgusted"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis"> ninilag
+            data-antonyms="natutuwa, tinatanggap"
+            data-synonyms="nadirinig, nahulog"> ninilag
             </span> na siya'y giliwin,
             aywan nga kung bakit at naririmarim;
             si Adolfo nama'y gayundin sa akin,

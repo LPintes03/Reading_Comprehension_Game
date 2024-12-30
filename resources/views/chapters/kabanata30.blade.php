@@ -32,13 +32,13 @@
             si Menandro'y siyang pagdating sa gubat;
             dala'y 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="Ehersito"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="hukbo, grupo ng mga sundalo"
+            data-definition-eng="army, military force"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">ehersito
+            data-antonyms="kapayapaan, kalmado"
+            data-synonyms="hukbo, sundalo">ehersito
             </span>'t si Adolfo'y hanap,
             nakita'y katoto ... laking tuwa't galak!
         </p>
@@ -66,13 +66,13 @@
         <p> 
             396   Namatay ang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="Bunying"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="kagalang-galang, magaling"
+            data-definition-eng="honorable, distinguished"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">bunying
+            data-antonyms="marumi, hindi magalang"
+            data-synonyms="kagalang-galang, magaling">bunying
             </span> Sultan Ali-Adab,
             nuwi si Aladin sa Persiyang Siyudad;
             ang Duke Florante sa trono'y naakyat,
@@ -86,13 +86,13 @@
             sa kapayapaan ang reyno'y nauwi;
             rito nakabangon ang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="Nalulugami"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="nalulugmok, nahihirapan"
+            data-definition-eng="in distress, suffering"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">nalulugami
+            data-antonyms="buo, matatag"
+            data-synonyms="sugatan, malupit">nalulugami
             </span>
             at napasatuwa ang nagpipighati.
         </p>

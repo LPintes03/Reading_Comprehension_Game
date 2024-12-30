@@ -39,13 +39,13 @@
         <p>
             345   Bilang makalawang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="maligid"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="paikot-ikot o pag-ikot"
+            data-definition-eng="to turn around or circle"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">maligid
+            data-antonyms="tuwid, direkta"
+            data-synonyms="paikot, umikot">maligid
             </span> ni Pebo
             ang sandaigdigan sa pagkagapos ko,
             nang inaakalang nasa ibang mundo,
@@ -56,13 +56,13 @@
     <div class="words">
         <p>
             346   "Ito ang buhay kong <span class="hoverable"
-            data-word="Lubhang"
+            data-word="silu-silong"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="lihim o hindi nakikita"
+            data-definition-eng="secretive or hidden"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">silu-silong
+            data-antonyms="hayag, lantad"
+            data-synonyms="lihim, tago">silu-silong
             </span> sakit
             at hindi pa tanto ang huling sasapit..."
             Mahahabang salita ay dito napatid,
@@ -102,13 +102,13 @@
             350   Hindi na inulit ni Florante naman,
             luha ni Aladi'y 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="pinaibayuhan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pinalakas o pinatibay"
+            data-definition-eng="strengthened or reinforced"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">pinaibayuhan
+            data-antonyms="pinahina, tinanggal"
+            data-synonyms="pinatatag, pinapalakas">pinaibayuhan
             </span>;
             tumahan sa gubat na may limang buwan,
             nang isang umaga'y naganyak maglibang.
@@ -140,13 +140,13 @@
         <p>
             353   Kung 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="nakikiumpok"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="sumasama o nakikisama sa isang grupo"
+            data-definition-eng="to join or associate with a group"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">nakikiumpok
+            data-antonyms="iwasan, tumanggi"
+            data-synonyms="nakikibahagi, nakikisama">nakikiumpok
             </span> sa madlang prinsesa'y
             si Diana'y sa gitna ng maraming nimpa,
             kaya at kung tawagin sa Reynong Persya,
@@ -169,13 +169,13 @@
         <p>
             355   Dito na 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="minulan"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pinagmulan o nagsimula"
+            data-definition-eng=" to originate or start"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">minulan
+            data-antonyms="tinapos, itinigil"
+            data-synonyms="pinagmulan, sinimulan">minulan
             </span> ang pagpapahirap
             sa aki't ninasang buhay ko'y mautas;
             at nang magbiktorya sa Albanyang S'yudad,
@@ -228,13 +228,13 @@
         <p>
             360   "May anim na ngayong taong walang 
             <span class="hoverable"
-            data-word="Lubhang"
+            data-word="likat"
             data-audio="path/to/audio/mapanglaw.mp3"
-            data-definition-tag="Labis o sobra."
-            data-definition-eng="Excessive or too much."
+            data-definition-tag="pagkilos o galaw"
+            data-definition-eng="movement or action"
             data-example="Lubhang mahirap ang sitwasyon."
-            data-antonyms="kaunti, konti"
-            data-synonyms="sobra, labis">likat
+            data-antonyms="pagtigil, paghinto"
+            data-synonyms="paggalaw, pag-kilos">likat
             </span>
             nang nilibut-libot na kasama'y hirap,"
             napatigil dito't sila'y may namatyag,
